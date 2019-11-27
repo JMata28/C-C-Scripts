@@ -1,3 +1,7 @@
+/*Author: José Mata (JMata28)*/
+/*The following is a script that uses cases in C to allow the user to input three numbers */
+/*and to get the highest, lowest, or middle of these numbers. */
+
 #include<stdio.h>
 #include<stdlib.h>
 int main()
