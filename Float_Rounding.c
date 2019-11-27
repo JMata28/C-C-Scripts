@@ -1,3 +1,7 @@
+/*Author: José Mata (JMata28)*/
+/*The following script asks the user for input of a decimal number and then rounds this number*/
+/*to the tenth, hunderth, and thousandth decimal places. */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
