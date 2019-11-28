@@ -1,3 +1,7 @@
+//Author: José Mata (JMata28)
+//The following script calculate the hypotenuse of three right triangles with sides of value 3 and 4, 5 and 12, and 8 and 15. 
+//These values can be changed to calculate the hypotenuse of any desired right triangle
+
 #include <iostream>
 #include <math.h>
 using namespace std;
