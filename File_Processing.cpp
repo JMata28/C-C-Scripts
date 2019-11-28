@@ -1,3 +1,7 @@
+//Author: José Mata (JMata28)
+//The following C++ script allows the user to create, modify, and read a text document with the stats of
+//strength, health, and hitchance for a monster character
+
 #include <iostream>
 #include <stdlib.h>
 #include <stdio.h>   //Set headers
