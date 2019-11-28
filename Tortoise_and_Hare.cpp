@@ -1,3 +1,7 @@
+//Author: José Mata (JMata28)
+//The folloeing code simulates a race between the tortoise and the hare by simulating the amount of steps taken 
+//forward and backward by each using random values, so the race is not the same every time the program is run.
+
 #include <iostream>
 #include <math.h>
 #include <stdlib.h>
