@@ -1,3 +1,7 @@
+//Author: José Mata (JMata28)
+//The following C++ script takes a single word as input from the user and outputs the letters of that word in alphabetical order.
+//Linked lists are used to achieve this purpose
+
 #include <iostream>
 #include <string>
 #include <list>
