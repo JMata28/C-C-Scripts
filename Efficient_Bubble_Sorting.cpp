@@ -1,3 +1,7 @@
+//Author: José Mata (JMata28)
+//The following is a script that using the bubble sorting technique efficiently to organize the numbers in an array named "numbers"
+//from least to greatest.
+
 #include <iostream>
 using namespace std;
 int main() {
